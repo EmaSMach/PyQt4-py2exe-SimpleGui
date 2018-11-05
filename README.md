@@ -9,7 +9,7 @@ Some improvementes that would be good to add are:
 
 * PyInstaller and CxFreeze support.
 * More options in the generated setup file.
-* Support for multi files proyects, depending on the tool to generate the .exe file.
+* Support for multiple file proyects, depending on the tool to generate the .exe file.
 
 ----------------------------------------------------------------------------------
 Important Note!:
